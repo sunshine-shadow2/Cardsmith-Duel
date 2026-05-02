@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "regeneration_card",
+  "pattern": [
+    " B ",
+    "PHP",
+    "   "
+  ],
+  "key": {
+    "B": { "item": "cardsmithduel:blank_card" },
+    "P": { "item": "minecraft:potion" },
+    "H": { "item": "minecraft:ghast_tear" }
+  },
+  "result": {
+    "item": "cardsmithduel:regeneration_card",
+    "count": 1
+  }
+}

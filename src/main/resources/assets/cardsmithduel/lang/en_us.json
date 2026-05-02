@@ -1,0 +1,15 @@
+{
+  "item.cardsmithduel.blank_card": "Blank Card",
+  "item.cardsmithduel.blank_card.tooltip": "A blank card that can be combined with various blocks to create magical cards.",
+  "item.cardsmithduel.swiftness_card": "Swiftness Card",
+  "item.cardsmithduel.swiftness_card.tooltip": "Grants 2 minutes of swiftness effect when used.",
+  "item.cardsmithduel.strength_card": "Strength Card",
+  "item.cardsmithduel.strength_card.tooltip": "Grants 2 minutes of strength effect when used.",
+  "item.cardsmithduel.regeneration_card": "Regeneration Card",
+  "item.cardsmithduel.regeneration_card.tooltip": "Grants 1 minute of regeneration effect when used.",
+  "item.cardsmithduel.card_backpack": "Card Backpack",
+  "item.cardsmithduel.card_backpack.tooltip": "A beautiful deep red leather backpack designed specifically for storing cards. Right-click to open.",
+  "item.cardsmithduel.example_item": "Example Item",
+  "block.cardsmithduel.example_block": "Example Block",
+  "creativemode_tab.cardsmithduel.example_tab": "Cardsmithing & Duel"
+}

@@ -1,0 +1,24 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "swiftness_card",
+  "pattern": [
+    " B ",
+    "PSP",
+    "   "
+  ],
+  "key": {
+    "B": {
+      "item": "cardsmithduel:blank_card"
+    },
+    "P": {
+      "item": "minecraft:potion"
+    },
+    "S": {
+      "item": "minecraft:sugar"
+    }
+  },
+  "result": {
+    "item": "cardsmithduel:swiftness_card",
+    "count": 1
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "regeneration_card",
+  "ingredients": [
+    { "item": "cardsmithduel:blank_card" },
+    { "item": "minecraft:potion", "potion": "minecraft:regeneration" }
+  ],
+  "result": {
+    "item": "cardsmithduel:regeneration_card",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "group": "strength_card",
+  "pattern": [
+    " B ",
+    "PLP",
+    "   "
+  ],
+  "key": {
+    "B": { "item": "cardsmithduel:blank_card" },
+    "P": { "item": "minecraft:potion" },
+    "L": { "item": "minecraft:blaze_powder" }
+  },
+  "result": {
+    "item": "cardsmithduel:strength_card",
+    "count": 1
+  }
+}

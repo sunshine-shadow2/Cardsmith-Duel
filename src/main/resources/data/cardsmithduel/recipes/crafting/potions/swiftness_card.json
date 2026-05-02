@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "swiftness_card",
+  "ingredients": [
+    {
+      "item": "cardsmithduel:blank_card"
+    },
+    {
+      "item": "minecraft:potion",
+      "potion": "minecraft:swiftness"
+    }
+  ],
+  "result": {
+    "item": "cardsmithduel:swiftness_card",
+    "count": 1
+  }
+}

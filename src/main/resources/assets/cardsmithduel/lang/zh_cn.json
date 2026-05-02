@@ -1,0 +1,15 @@
+{
+  "item.cardsmithduel.blank_card": "空白卡牌",
+  "item.cardsmithduel.blank_card.tooltip": "一张空白的卡牌，可以与各种方块合成来创建神奇的卡牌。",
+  "item.cardsmithduel.swiftness_card": "迅捷卡牌",
+  "item.cardsmithduel.swiftness_card.tooltip": "使用后获得2分钟的迅捷效果。",
+  "item.cardsmithduel.strength_card": "力量卡牌",
+  "item.cardsmithduel.strength_card.tooltip": "使用后获得2分钟的力量效果。",
+  "item.cardsmithduel.regeneration_card": "生命恢复卡牌",
+  "item.cardsmithduel.regeneration_card.tooltip": "使用后获得1分钟的生命恢复效果。",
+  "item.cardsmithduel.card_backpack": "卡牌背包",
+  "item.cardsmithduel.card_backpack.tooltip": "一个精美的深红色皮革背包，专门用于存放卡牌。右键使用打开背包。",
+  "item.cardsmithduel.example_item": "示例物品",
+  "block.cardsmithduel.example_block": "示例方块",
+  "creativemode_tab.cardsmithduel.example_tab": "卡牌匠造・对决"
+}

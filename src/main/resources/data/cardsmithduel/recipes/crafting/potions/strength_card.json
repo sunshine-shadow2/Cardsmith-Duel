@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "group": "strength_card",
+  "ingredients": [
+    { "item": "cardsmithduel:blank_card" },
+    { "item": "minecraft:potion", "potion": "minecraft:strength" }
+  ],
+  "result": {
+    "item": "cardsmithduel:strength_card",
+    "count": 1
+  }
+}
